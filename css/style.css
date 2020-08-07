@@ -2,7 +2,7 @@
 body{
     padding: 0;
     margin: 0;
-    background: url(/img/scene.jpg) no-repeat;
+    background: url(/img/scene.jpg);
     font-family: 'Titillium Web', sans-serif;
 }
 
